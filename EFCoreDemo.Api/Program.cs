@@ -1,7 +1,5 @@
 using EFCoreDemo.Infrastructure.Context;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Migrations;
-using System.Collections.Generic;
 
 var builder = WebApplication.CreateBuilder(args);
 
